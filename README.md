@@ -18,3 +18,12 @@ for medical image storage and presentation, with good scalability.
 
 具体参见
 https://ipacs-film.oss-cn-shenzhen.aliyuncs.com/dicom_ui/DicomNetwork.pdf
+
+部署：
+前端页面可完全部署与IPFS上面（通过Fleek可便捷操作），因访问速度问题，演示版本网站页面存放于阿里云OSS空间当中，作用是相同效果。
+后端部分部署于服务器当中，这部分接下来用智能合约形式实现，完全实现去中心化部分
+
+拓展：
+目前流程为患者得到自己影像数据后，上传到IPFS网络，通过平台找医生通过邮件方式沟通完成问诊咨询流程。
+之后可加入sinso 激励机制，对患者使用自己数据进行奖励，调动患者维护自身数据的积极性。
+加入人工智能模块，对患者上传数据进行机器阅读，最后根据分析内容推荐医生进行最后判断
