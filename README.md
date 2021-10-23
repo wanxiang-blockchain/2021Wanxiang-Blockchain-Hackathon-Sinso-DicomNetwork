@@ -16,8 +16,12 @@ standard communication protocols for processing medical images, and has
 successfully bridged to the Filecoin ecosystem. In essence, DicomNetwork is an SDK 
 for medical image storage and presentation, with good scalability.
 
-具体参见
+画册
 https://ipacs-film.oss-cn-shenzhen.aliyuncs.com/dicom_ui/DicomNetwork.pdf
+视频地址
+https://ipacs-film.oss-cn-shenzhen.aliyuncs.com/dicom_ui/sinso.m4v
+演示地址
+https://120.27.29.91:8888/login
 
 部署：
 前端页面可完全部署与IPFS上面（通过Fleek可便捷操作），因访问速度问题，演示版本网站页面存放于阿里云OSS空间当中，作用是相同效果。
